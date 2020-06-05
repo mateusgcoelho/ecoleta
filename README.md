@@ -1,4 +1,4 @@
-# Projeto Ecoleta
+# Projeto para estudos - Ecoleta
 • Aplicação web desenvovilda com Html, Css, Javascript e Nodejs, em 5 dias consecutivos, acompanhando as video aulas da NextLevelWeek - Rocketseat 
 
 • Os dados estão sendo armazenados em SQLite.
